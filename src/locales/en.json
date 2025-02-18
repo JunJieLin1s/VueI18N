@@ -1,0 +1,6 @@
+{
+  "message": {
+    "welcome": "Welcome to our application!",
+    "price": "Price: {price}"
+  }
+}
